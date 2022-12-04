@@ -31,7 +31,7 @@ Bridge uses a number of open source languages/librarys/frameworks to work proper
 - [Hardhat](https://hardhat.org) - Framework for testing, compiling and deploying the smart-contracts.
 - [OpenZeppelin](https://openzeppelin.com) - Library for writing modular, reusable, secure smart contracts.
 - [Flutter](https://flutter.dev) - Framework for the frontend.
-- [Web3Dart](https://pub.dev/packages/web3dart) - Library for connection and interaction with the smart-contracts.
+- [dart_web3](https://pub.dev/packages/dart_web3) - Library for connection and interaction with the smart-contracts.
 - [IPFS](https://ipfs.tech) - Blockchain for the storage of the NFT images and metadata.
 - [Pinata](https://www.pinata.cloud) - Tool for easy deployment of NFT images and metadata to IPFS.
 - [LayerZero](https://layerzero.network) - Framework for bridging of NFTs from one chain to another
