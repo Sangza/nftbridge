@@ -38,3 +38,6 @@ Bridge uses a number of open source languages/librarys/frameworks to work proper
 
 And of course Bridge itself is open source with a [public repository](https://github.com/Sangza/nftbridge)
  on GitHub. For a live preview of the Bridge DApp visit this [website]( https://bridgee-a3ae8.web.app).
+ 
+ 
+Incase the website is not rendering deploy app by press F5
